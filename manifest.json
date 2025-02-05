@@ -3,7 +3,7 @@
   "name": "Rosa SEP",
   "version": "1.0",
 
-  "description": "",
+  "description": "Firefox extension to prettify Stanford Encyclopedia of Philosophy's articles ",
 
   "icons": {
     "48": "icons/border-48.png"
