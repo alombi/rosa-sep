@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Rosa SEP",
+  "version": "1.0",
+
+  "description": "",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.plato.stanford.edu/entries/*"],
+      "js": ["style.js"]
+    }
+  ]
+}
